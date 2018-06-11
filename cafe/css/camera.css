@@ -44,7 +44,7 @@
   z-index: 0;
 }
 .camera_wrap img {
-  max-width: none !important;
+  max-width: 954px;
 }
 .camera_fakehover {
   height: 100%;
